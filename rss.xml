@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[icydesignsllc]]></title>
+        <description><![CDATA[icydesignsllc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 13:10:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zenfolio | Hampton Roads Virginia Wedding Photographers]]></title>
+            <description><![CDATA[<article><h1>Zenfolio | Hampton Roads Virginia Wedding Photographers</h1><p>I.C.Y. Designs, LLC is an exclusive, experience driven wedding photography business based in Hampton Roads, Virginia providing a high-end boutique experience for our clients. Come see why with I.C.Y. Designs, LLC - Located in Historic Suffolk. Open M-F and weekends by appointment only. After hours available. 757.376.5326 cristy@icydesignsllc.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f890c5d3c787baed39572c52dad80df1b10a48f.jpg"></article>]]></description>
+            <link>http://www.icydesignsllc.com/</link>
+            <guid isPermaLink="false">4a6c3ad8-a7cc-4310-939c-a4baca9f791a</guid>
+            <pubDate>Thu, 07 Apr 2016 13:10:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
