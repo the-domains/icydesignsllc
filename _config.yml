@@ -1,6 +1,6 @@
 name: icydesignsllc
 favicon: null
-layout_spectrum: 0.41126
+layout_spectrum: 0.73172
 typography_spectrum: 0.69358
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#d4e3e9'
     - '#bea79f'
     - '#9e7d76'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.3766168754082173
   saturation: 0.25
   rhythmicContrast: 0.25
